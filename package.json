@@ -1,0 +1,19 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "description": "react router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themta/react.git"
+  },
+  "author": "Them Ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themta/react/issues"
+  },
+  "homepage": "https://github.com/themta/react#readme"
+}
